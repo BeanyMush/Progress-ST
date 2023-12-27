@@ -1,0 +1,37 @@
+div {
+    margin: 18px;
+}
+
+.class-1, .class-2, .class-3 {
+    background-color: #FFB6C1;
+    font-family:Verdana, DejaVuSans, Geneva, Tahoma, sans-serif;
+    color: #000000;
+}
+
+.class-1 {
+    font-size: 18px;
+}
+
+.class-2 {
+    font-size: 25;
+}
+
+.class-3 {
+    font-size: 17;
+}
+
+#id-1, #id-2 {
+    font-family:Verdana, DejaVuSans, Geneva, Tahoma, sans-serif;
+}
+
+#id-1 {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#id-2 {
+    background-color: #90EE90;
+    color: #000000;
+    font-size: 24px;
+    font-weight: bold;
+}
